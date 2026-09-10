@@ -1,0 +1,21 @@
+# Local datasets
+*.csv
+MachineLearningCVE/
+
+# Generated models and notebooks
+*.pkl
+*.joblib
+models/
+.ipynb_checkpoints/
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local/editor/system files
+.env
+.vscode/
+desktop.ini
+.DS_Store
